@@ -10,7 +10,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- [https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf](One-shot Color Processing ... Sam Saeed)
+- (https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf) [One-shot Color Processing ... Sam Saeed]
 - List
 
 1. Numbered
