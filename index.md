@@ -1,8 +1,7 @@
-## Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County Astronomers (OCA).  This page contains supplemental files for the talks given at the monthly meetings.
+## OCA AISIG
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County Astronomers (OCA).  This page contains supplemental files for the talks given at the monthly meetings.
 
 ```markdown
 Syntax highlighted code block
