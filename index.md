@@ -3,18 +3,8 @@
 ### Markdown
 Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County Astronomers (OCA).  This page contains supplemental files for the talks given at the monthly meetings.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
 - (https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf) [One-shot Color Processing ... Sam Saeed]
 - List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
