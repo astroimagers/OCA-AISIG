@@ -1,4 +1,8 @@
-## Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County Astronomers (OCA).  This page contains supplemental files for the talks given at the monthly meetings.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/astroimagers/aisig/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
