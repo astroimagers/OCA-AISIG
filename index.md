@@ -5,6 +5,7 @@ Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County
 
 * [OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf](OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf) One-shot Color Processing ... Sam Saeed
 * [OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf](One-shot Color Processing ... Sam Saeed) 
+* [One-shot Color Processing ... Sam Saeed](OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf) 
 
 * List
 
