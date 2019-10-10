@@ -10,7 +10,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- [https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf](One-shot Color Processing ... Sam Saeed)
 - List
 
 1. Numbered
@@ -18,7 +18,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf](https://github.com/astroimagers/OCA-AISIG/blob/master/OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
