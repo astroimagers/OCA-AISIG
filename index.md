@@ -4,7 +4,7 @@ This page contains supplemental files for the talks given at the monthly meeting
 
 * 2019 Sep : [One-shot Color Processing](OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf)  ... Sam Saeed
 
-* 2019 Aug : [2019 Chile — Solar Eclipse and Southern Skies](2019 Total Solar Eclipse Expedition.pdf)  ... Dave Kodama
+* 2019 Aug : [2019 Chile - Solar Eclipse and Southern Skies](2019 Total Solar Eclipse Expedition.pdf)  ... Dave Kodama
 
 * 2019 Jan : ... Dave Pearson
   * [My Journey to Remote Observing](OCA AstroImagers NM Remote Observatory submitted version.pdf) 
