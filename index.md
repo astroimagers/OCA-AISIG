@@ -10,8 +10,10 @@ This page contains supplemental files for the talks given at the monthly meeting
 
 * 2018 Sep :  ... Kyle Coker
   * [Automating Imaging (Part 1)](EvolutionOfAManCave.pdf) 
-  * [Automating Imaging (Part 2)(CCDAutopilot5.pdf) 
+  * [Automating Imaging (Part 2)](CCDAutopilot5.pdf) 
   
 * 2018 Jun : [Planetary Imaging ](Planetary_Imaging-Sam_Saeed-AISIG-2018-06.pdf) ... Sam Saeed
 
-2019    : * []() 
+* 2019 Jan : ... Dave Pearson
+  * [My Journey to Remote Observing](OCA AstroImagers NM Remote Observatory submitted version.pdf) 
+  * [Deep Sky West Build Timelapse](DSW Beta Build Timelapse submitted.mp4) 
