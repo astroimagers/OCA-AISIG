@@ -4,6 +4,10 @@ This page contains supplemental files for the talks given at the monthly meeting
 
 * 2019 Aug : [One-shot Color Processing](OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf)  ... Sam Saeed
 
+* 2019 Jan : ... Dave Pearson
+  * [My Journey to Remote Observing](OCA AstroImagers NM Remote Observatory submitted version.pdf) 
+  * [Deep Sky West Build Timelapse](DSW Beta Build Timelapse submitted.mp4) 
+
 * 2018 May : [Imaging from Kitt Peak and Mt. Lemmon](Arizona Astronomy.pdf)  ... Tom Bash
 
 * 2018 Oct : [Alternative Imaging Tools](OCA_astroimagers-alt imaging talk.pdf)  ... Alan Smallbone
@@ -13,7 +17,3 @@ This page contains supplemental files for the talks given at the monthly meeting
   * [Automating Imaging (Part 2)](CCDAutopilot5.pdf) 
   
 * 2018 Jun : [Planetary Imaging ](Planetary_Imaging-Sam_Saeed-AISIG-2018-06.pdf) ... Sam Saeed
-
-* 2019 Jan : ... Dave Pearson
-  * [My Journey to Remote Observing](OCA AstroImagers NM Remote Observatory submitted version.pdf) 
-  * [Deep Sky West Build Timelapse](DSW Beta Build Timelapse submitted.mp4) 
