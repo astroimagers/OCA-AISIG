@@ -2,6 +2,8 @@ Welcome to the AstroImagers Special Interest Group (AI SIG) of the Orange County
 
 This page contains supplemental files for the talks given at the monthly meetings.  To see descriptions of upcoming and past meetings, see [our Wordpress Blog](https://astroimagers.wordpress.com).  The main page for the Orange County Astronomers is [https://ocastronomers.org](https://ocastronomers.org).
 
+* 2019 Oct : [Alternative Filters for Planetary Imaging](alternative filters for planets.pdf)  ... Bill Warden
+
 * 2019 Sep : [One-shot Color Processing](OSC_Processing-Sam_Saeed-AISIG-2019-09.pdf)  ... Sam Saeed
 
 * 2019 Aug : [2019 Chile - Solar Eclipse and Southern Skies](2019 Total Solar Eclipse Expedition.pdf)  ... Dave Kodama
